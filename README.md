@@ -5,7 +5,7 @@ Analysis of Android Applications
 Please, write a email providing your name and affiliation to the following 
 address:
 
-zhauniarovich<at>disi.unitn.it
+[zhauniarovich&lt;at&gt;disi.unitn.it]
 
 
 ##Description
