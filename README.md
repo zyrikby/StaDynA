@@ -1,7 +1,7 @@
 #StaDynA: Addressing the Problem of Dynamic Code Updates in the Security 
 Analysis of Android Applications
 
-#UPDATE: From now on the code is available upon request.
+#UPDATE: From now on the code is temporary available upon request.
 Please, write a email providing your name and affiliation to the following 
 address:
 
