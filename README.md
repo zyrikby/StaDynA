@@ -5,7 +5,7 @@ Analysis of Android Applications
 Please, write a email providing your name and affiliation to the following 
 address:
 
-[yzhauniarovich&lt;at&gt;qf.org.qa]
+[yzhauniarovich&lt;at&gt;hbku.edu.qa]
 
 
 ##Description
