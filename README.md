@@ -1,14 +1,14 @@
-#StaDynA: Addressing the Problem of Dynamic Code Updates in the Security 
+# StaDynA: Addressing the Problem of Dynamic Code Updates in the Security 
 Analysis of Android Applications
 
-#UPDATE: From now on the code is temporary available upon request.
+# UPDATE: From now on the code is temporary available upon request.
 Please, write a email providing your name and affiliation to the following 
 address:
 
 [yzhauniarovich&lt;at&gt;hbku.edu.qa]
 
 
-##Description
+## Description
 StaDynA is a system supporting security app analysis in the presence of dynamic
 code update features (dynamic class loading and reflection).
 
@@ -21,7 +21,7 @@ This work has been done at the University of Trento.
 
 
 
-##Publication
+## Publication
 The results of our research were presented at the 5th ACM Conference on Data 
 and Application Security and Privacy (ACM CODASPY 2015). Please use the 
 following bibtex reference to cite our paper:
@@ -41,7 +41,7 @@ following bibtex reference to cite our paper:
 ``` 
 
 
-##Usage
+## Usage
 Our tool consists of two parts: a server and a client. The server side of
 StaDynA is a Python program that interacts with a static analysis tool. 
 Currently, StaDynA uses AndroGuard as a static analyzer. The client side is the
@@ -61,13 +61,13 @@ where *inputApk* is a path to the apk file to be analyzed, and *resultFolder* is
 the path where the results of the analysis will be stored.
 
 
-##Dependencies
+## Dependencies
 1. [networkx](https://networkx.github.io/) released under BSD license.
 2. [AndroGuard](https://code.google.com/p/androguard/) released under Apache-2.0
 license.
 
 
-
-##License
+ 
+## License
 The tool is distributed under Apache-2.0 license. The citation of the paper is 
 highly appreciated.
