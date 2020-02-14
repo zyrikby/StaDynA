@@ -2,10 +2,8 @@
 Analysis of Android Applications
 
 # UPDATE: From now on the code is temporary available upon request.
-Please, write a email providing your name and affiliation to the following 
-address:
+Please, check how to contact me on [my personal website](https://zhauniarovich.com).
 
-[yury&lt;at&gt;perfectequanimity.com]
 
 
 ## Description
