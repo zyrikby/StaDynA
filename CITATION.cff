@@ -32,8 +32,10 @@ preferred-citation:
     given-names: "Bruno"
   - family-names: "Massacci"
     given-names: "Fabio"
+  collection-title: "5th ACM Conference on Data and Application Security and Privacy"
+  collection-type: "proceedings"
   conference:
-    name: "5th ACM Conference on Data and Application Security and Privacy"
+    name: "CODASPY"
   doi: "10.1145/2699026.2699105"
   start: 37 # First page number
   end: 48 # Last page number
