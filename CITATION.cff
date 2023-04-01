@@ -1,0 +1,41 @@
+title: StaDynA
+abstract: Addressing the Problem of Dynamic Code Updates in the Security Analysis of Android Applications.
+authors:
+  - family-names: Zhauniarovich
+    given-names: Yury
+    orcid: "https://orcid.org/0000-0001-9116-0728"
+cff-version: 1.2.0
+date-released: "2015-03-29"
+identifiers:
+  - type: url
+    value: "https://github.com/zyrikby/StaDynA"
+    description: Latest version
+keywords:
+  - research
+  - Android
+  - "dynamic code updates"
+  - "static-dynamic analyzer"
+license: Apache-2.0
+message: If you use this software, please cite it using these metadata.
+repository-code: "https://github.com/zyrikby/StaDynA"
+preferred-citation:
+  title: "StaDynA: Addressing the Problem of Dynamic Code Updates in the Security Analysis of Android Applications"
+  type: conference-paper
+  authors:
+  - family-names: "Zhauniarovich"
+    given-names: "Yury"
+  - family-names: "Ahmad"
+    given-names: "Maqsood"
+  - family-names: "Gadyatskaya"
+    given-names: "Olga"
+  - family-names: "Crispo"
+    given-names: "Bruno"
+  - family-names: "Massacci"
+    given-names: "Fabio"
+  conference:
+    name: "5th ACM Conference on Data and Application Security and Privacy"
+  doi: "10.1145/2699026.2699105"
+  start: 37 # First page number
+  end: 48 # Last page number
+  year: 2015
+```
